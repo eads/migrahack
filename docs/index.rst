@@ -32,19 +32,18 @@ by `David Eads <http://twitter.com/eads>`_.
 Prerequisites
 =============
 
-1. A fundamental understanding of HTML, CSS, and Javascript
-1. A modern web browser (Chrome or Chromium)
-2. A `text editor <https://en.wikipedia.org/wiki/Text_editor>`_ to work with plain text files
-3. A `command-line interface <https://en.wikipedia.org/wiki/Command-line_interface>`_ to interact with your computer
-4. `Git <http://git-scm.com/>`_ version control software
-5. (Optional) An account at `GitHub.com <http://www.github.com>`_
+#. A fundamental understanding of HTML, CSS, and Javascript
+#. A modern web browser (Chrome or Firefox)
+#. A `text editor <https://en.wikipedia.org/wiki/Text_editor>`_ to work with plain text files
+#. A `command-line interface <https://en.wikipedia.org/wiki/Command-line_interface>`_ to interact with your computer
+#. `Git <http://git-scm.com/>`_ version control software
+#. (Optional) An account at `GitHub.com <http://www.github.com>`_
 
 
 Web browser
 -----------
 
-Firefox or Chrome.
-
+Chrome or Firefox. Chrome (or Chromium on Linux) is recommended for its superior debugging tools.
 
 Text editor
 ---------------------
@@ -121,7 +120,7 @@ Principles
   - Distributions 
 - Publish raw and summarized data with a web API
 
-`Time summaries of crime incident data <https://www.dropbox.com/s/m3jlrrld5rnmnpw/time%20summaries%20of%20crime%20incident%20data%20-%20data%20made%20simple%20hackathon%202014.pdf>`_ by David Eads describes how the the Chicago Tribune applies these techniques to crime data.
+`Time summaries of crime incident data <https://www.dropbox.com/s/m3jlrrld5rnmnpw/time%20summaries%20of%20crime%20incident%20data%20-%20data%20made%20simple%20hackathon%202014.pdf>`_ by David Eads describes how the Chicago Tribune applies these techniques to crime data.
 
 
 Our data
